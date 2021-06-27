@@ -40,8 +40,9 @@ Commit graph when running `git log --oneline --graph --all`
 I would recommend that you try to do the assignment yourself before takign a look at the solution below. Try to compare to the graph shown above to ensure that you are on the right track.
 
 ## Solution steps using command line
-
-``` bash
+<details>
+<pre>
+<code>
 git init
 touch README.md
 git add README.md
@@ -94,4 +95,6 @@ git checkout feature2
 git rebase develop # Fix merge conflict before running the next command
 git add fileA.txt
 git rebase --continue # Use defaulte rebase messages
-```
+</pre>
+</code>
+</details>
