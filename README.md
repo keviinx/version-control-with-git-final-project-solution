@@ -24,7 +24,7 @@ Commit graph when running `git log --oneline --graph --all`
 | | |\
 | | |/
 | |/|
-| * | 15bdc60 fix feature 1 big X
+| * | 15bdc60 fix feature 1 bug X
 |/ /
 * |   704d17a Merge branch 'feature1' into develop
 |\ \
